@@ -1,0 +1,76 @@
+body {
+  font-family: Ubuntu;
+  background-image: url(/Users/danielecossu/Desktop/Boolean/EsercizioLim/background.jpg);
+  background-size: cover;
+  box-sizing: border-box;
+}
+
+.box {
+ background-color: rgba(0, 0, 0, 0.5);
+ width: 900px;
+ height: 650px;
+ margin: auto;
+ border-radius: 20px;
+}
+
+header {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.logo {
+  width: 180px;
+}
+
+.titolo {
+  font-size: 25px;
+  color: 	#00ff00;
+  font-weight: 900;
+}
+
+nav {
+  text-align: center;
+  background-color: #00ff00;
+  padding: 10px;
+  margin: 0px 80px;
+}
+
+main {
+  color: white;
+  margin: 0px 360px;
+}
+
+.contenitore {
+  padding: 0px 0px;
+  margin: 10px -280px;
+}
+
+.monopattino {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.luogo, .stato-ricarica {
+  font-size: 12px;
+}
+
+.barra-ricarica {
+  background-color: #ffcc00;
+  padding: 0px 100px;
+  border-radius: 5px;
+  line-height: 25px;
+}
+
+.barra-ricarica2 {
+  background-color: #228b22;
+  padding: 0px 250px;
+  border-radius: 5px;
+  line-height: 25px;
+}
+
+.barra-ricarica3 {
+  background-color: #b22222;
+  padding: 0px 40px;
+  border-radius: 5px;
+  line-height: 25px;
+}
